@@ -11,7 +11,7 @@ public class areaRectangle{
         area = length * width;
         System.out.println("Area: " + area);
         
-
+        sc.close();
 
     }
 }

@@ -12,5 +12,6 @@ public class addIntString{
 		b = sc.next().charAt(0);
 
 		System.out.println(a + "" + b);
+		sc.close();
 	}
 }
