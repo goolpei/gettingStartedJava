@@ -1,0 +1,6 @@
+*.class
+
+.vscode/
+.vs/
+bin/
+obj/
